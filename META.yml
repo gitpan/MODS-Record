@@ -23,4 +23,4 @@ requires:
   Moo: 0
   Test::More: 0
   XML::Parser: 0
-version: 0.01
+version: 0.02
