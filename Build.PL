@@ -18,6 +18,7 @@ my $build = Module::Build->new(
         'JSON' => 0,
         'Carp' => 0,
         'XML::Parser' => 0,
+        'IO::file' => 0,
     },
     create_makefile_pl => 'traditional',
     create_license => 1,

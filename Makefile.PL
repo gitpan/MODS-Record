@@ -6,6 +6,7 @@ WriteMakefile
           'VERSION_FROM' => 'lib/MODS/Record.pm',
           'PREREQ_PM' => {
                            'Carp' => 0,
+                           'IO::file' => 0,
                            'JSON' => 0,
                            'Moo' => 0,
                            'Software::License' => 0,
