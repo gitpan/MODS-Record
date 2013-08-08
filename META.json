@@ -32,7 +32,7 @@
             "JSON" : "0",
             "Moo" : "0",
             "XML::Parser" : "0",
-            "perl" : "v5.8.0"
+            "perl" : "v5.8.3"
          }
       }
    },
@@ -345,7 +345,7 @@
       },
       "MODS::Record" : {
          "file" : "lib/MODS/Record.pm",
-         "version" : "0.06"
+         "version" : "0.07"
       },
       "MODS::Record::Unique" : {
          "file" : "lib/MODS/Record.pm"
@@ -363,5 +363,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.06"
+   "version" : "0.07"
 }
